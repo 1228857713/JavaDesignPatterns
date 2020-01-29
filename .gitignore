@@ -1,0 +1,49 @@
+/target/
+target
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+bin
+# Built application files and Maven
+
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+.mvn/timing.properties
+
+# Compiled class files
+*.class
+
+# Log Files
+*.log
+
+### IntelliJ IDEA ###
+*.iml
+/.idea/
+/out/
+*.iws
+*.ipr
+
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# File-based project format
+*.iws
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
